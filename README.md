@@ -7,7 +7,7 @@ The platform is based on three proven, opensource systems: District Health Infor
 
 The OpenCryptoCommunity Health Insurance (OPEN.CRYPTO.CHS) is the service linking the three systems for  and an analytic platform that manages budgets, risk and...
 
-The linkage between health data, claims and financing. 
+The OpenCryptoCHS value added is systems integration of the linkages between health data, claims and financing, and establishing a platform for big data solutions. 
 
 Case management database
     Run an instance of DHIS2 
