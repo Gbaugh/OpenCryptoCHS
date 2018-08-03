@@ -1,0 +1,34 @@
+Install Instructions for Components
+
+
+IMIS
+  Microsoft Azure: Windows Server: 
+  Setup Open IMIS 
+      Windows Server 2012 R2, 4 CPUs, 8GB RAM, 300GB Hard drive
+      SQLite is needed to create .db3 databases that are compatible with the IMIS phones
+          http://openimis.readthedocs.io/en/latest/web_application_installation.html#prerequisites 
+  Install IIS
+  Install and Configure SQL Server
+  Install IMIS
+  Install Windows Services
+  APIs
+
+DHIS2
+  Linode
+  Cameroon metadata
+  Other country metadata: Mozambique, Malawi, 
+  APIs
+
+
+RSK
+  Testnet
+  Wallets, processes, data, 
+  APIs
+  
+
+OpenCryptoCHS Platform
+  In Rstudio
+    Analytics
+    Linkages (via APIs)
+    Processes
+
