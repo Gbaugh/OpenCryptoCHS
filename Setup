@@ -15,13 +15,21 @@ IMIS
 
 DHIS2
   Linode
-  Cameroon metadata
-  Other country metadata: Mozambique, Malawi, 
+    Setup Linode
+    Install DHIS2
+    
+  Add country metadata: Nigeria Abia, Mozambique, Malawi, DRC, Cameroon or Niger
+  Setup events (mHealth inputs) 
   APIs
 
+Create Users
+  Setup in R
+  Generate sick children (from user list or random?)
+  
 
-RSK
+Payment Platform (RSK, other)
   Testnet
+  Identities
   Wallets, processes, data, 
   APIs
   
@@ -31,4 +39,7 @@ OpenCryptoCHS Platform
     Analytics
     Linkages (via APIs)
     Processes
+    Health Systems Functions (provision, supply, supervision, referral assist)
+    Health Systems Nodes (Community, CHW, Facility, Supplier, ??) 
+    Health Systems Software considerations (power, motivation, etc) 
 
