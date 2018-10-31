@@ -1,4 +1,4 @@
-# OpenCryptoCHS
+# Project 04
 Design for Opensource Cryptocurrency Community Health Insurance Platform
 
 The [OpenCryptoCommunity Health Insurance] goal is to add value to the national health ecosystems by by providing smart-contract functionality to risk-pooling schemes based on national health information systems.  The system will process near instant payments based on claims for medical services, providing analytics and risk algorithms, resulting in increased accountability, scalability and sustainability.
@@ -42,7 +42,8 @@ What problem(s) does this solve?
     
 Open questions:
     How much supply chain integration?
-    Why only iCCM?  Should we start with the PHC level or both?     
+    Why only iCCM?  Should we start with the PHC level or both? 
+    What are the differences between what I am suggesting and health microinsurance? (Everyone is eligible by default; the claims are submitted by the service provider instead of the individual)  
     
 
     
